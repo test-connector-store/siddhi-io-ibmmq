@@ -1,0 +1,18 @@
+{
+    "name": "IBM MQ",
+    "owner": "WSO2",
+    "category": "Siddhi IO",
+    "documentationUrl": "https://wso2-extensions.github.io/siddhi-io-ibmmq/api/1.1.2/",
+    "description": "",
+    "status": "Active",
+    "labels": [
+        "siddhi-io",
+        "ibmmq"
+    ],
+    "releases": [
+        {
+            "tagName": "1.1.2",
+            "products": []
+        }
+    ]
+}
